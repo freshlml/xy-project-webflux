@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.xy</groupId>
-        <artifactId>xy-common-parent</artifactId>
+        <artifactId>xy-common-dependencies</artifactId>
         <version>1.0.0</version>
         <relativePath/>
     </parent>
@@ -76,6 +76,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <!--<version>${spring-boot.version}</version>-->
             </plugin>
         </plugins>
     </build>
