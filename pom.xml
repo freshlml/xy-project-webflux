@@ -5,13 +5,12 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.xy</groupId>
-        <artifactId>xy-common-dependencies</artifactId>
+        <groupId>com.fresh</groupId>
+        <artifactId>fresh-common-dependencies</artifactId>
         <version>1.0.0</version>
-        <relativePath/>
     </parent>
 
-    <groupId>com.xy</groupId>
+    <groupId>com.fresh.xy</groupId>
     <artifactId>xy-project-webflux</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
