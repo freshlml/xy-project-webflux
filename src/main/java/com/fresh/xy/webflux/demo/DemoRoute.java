@@ -1,4 +1,4 @@
-package com.sc.webflux.demo;
+package com.fresh.xy.webflux.demo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

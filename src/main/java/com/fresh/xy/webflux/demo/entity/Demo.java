@@ -1,4 +1,4 @@
-package com.sc.webflux.demo.entity;
+package com.fresh.xy.webflux.demo.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

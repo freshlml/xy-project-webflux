@@ -1,14 +1,11 @@
-package com.sc.webflux.demo.handler;
+package com.fresh.xy.webflux.demo.handler;
 
-import com.sc.webflux.demo.entity.Demo;
-import com.sc.webflux.demo.repository.DemoRepository;
+import com.fresh.xy.webflux.demo.entity.Demo;
+import com.fresh.xy.webflux.demo.repository.DemoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-import reactor.core.scheduler.Schedulers;
-
-import java.util.Collection;
 
 /**
  * @Author yangmingzi    <br>

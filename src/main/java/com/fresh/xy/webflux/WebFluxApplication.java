@@ -1,4 +1,4 @@
-package com.sc.webflux;
+package com.fresh.xy.webflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

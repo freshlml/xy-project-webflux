@@ -1,6 +1,6 @@
-package com.sc.webflux.demo.repository;
+package com.fresh.xy.webflux.demo.repository;
 
-import com.sc.webflux.demo.entity.Demo;
+import com.fresh.xy.webflux.demo.entity.Demo;
 import org.springframework.stereotype.Repository;
 
 import java.time.LocalDateTime;
